@@ -1,0 +1,1 @@
+// Reference types for Vite client

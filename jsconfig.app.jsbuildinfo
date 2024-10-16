@@ -1,0 +1,4 @@
+{
+    "root": ["./src/App.jsx", "./src/main.jsx", "./src/vite-env.d.js"],
+    "version": "5.6.3"
+  }
