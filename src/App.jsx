@@ -86,7 +86,7 @@ function App() {
                 className={`p-2 mb-4 ${isDarkMode ? 'bg-gray-800 text-white' : 'bg-gray-200 text-black'}`}
             >
                 <img 
-                    src="./components/9071075_dark_mode_icon.svg" 
+                    src="https://img.icons8.com/3d-fluency/94/crescent-moon.png" 
                     alt="Darkmode" 
                     className="darkmodeicon inline-block h-9 w-9"
                 />
